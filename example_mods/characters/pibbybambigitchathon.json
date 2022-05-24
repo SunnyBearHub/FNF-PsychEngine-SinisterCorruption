@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				181,
+				-248
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Corrupted Bambi idle"
+		},
+		{
+			"offsets": [
+				180,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Corrupted Bambi left"
+		},
+		{
+			"offsets": [
+				189,
+				-237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Corrupted Bambi down"
+		},
+		{
+			"offsets": [
+				176,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Corrupted Bambi up"
+		},
+		{
+			"offsets": [
+				173,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Corrupted Bambi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Corrupted_Bambi",
+	"position": [
+		-420,
+		-40
+	],
+	"healthicon": "pibbybamber",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		255,
+		21
+	],
+	"camera_position": [
+		-130,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

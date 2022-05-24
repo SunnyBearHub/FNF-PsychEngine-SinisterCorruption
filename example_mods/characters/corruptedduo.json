@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				182,
+				-248
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "corrupted dave idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-226
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "corrupted dave left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				-237
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "corrupted dave down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				-226
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "corrupted dave up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				-228
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "corrupted dave right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corrupted_dave",
+	"position": [
+		-90,
+		-160
+	],
+	"healthicon": "daveandbambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		62,
+		255
+	],
+	"camera_position": [
+		-490,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
