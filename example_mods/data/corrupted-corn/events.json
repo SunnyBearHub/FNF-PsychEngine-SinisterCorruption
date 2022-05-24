@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "farmglitch",
+		"player1": "bf",
+		"player2": "pibbybambi",
+		"player3": null,
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				153650,
+				[
+					[
+						"Image Flash",
+						"Black",
+						"100"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "invisibru",
+		"bpm": 300,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "corrupt-corn"
+	}
+}
