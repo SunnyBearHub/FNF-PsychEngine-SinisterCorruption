@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Corrupted_Bambi.png"><SubTexture name="Corrupted Bambi down0000" x="509" y="1300" width="509" height="401" frameX="-242" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi down0001" x="0" y="1300" width="509" height="406" frameX="-243" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi down0002" x="0" y="877" width="508" height="423" frameX="-244" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi down0003" x="1332" y="0" width="507" height="413" frameX="-245" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi idle0000" x="992" y="0" width="340" height="426" frameX="-294" frameY="-89" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi idle0001" x="0" y="0" width="338" height="446" frameX="-294" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi idle0002" x="992" y="426" width="340" height="422" frameX="-294" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi left0000" x="1332" y="413" width="283" height="408" frameX="-315" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi left0001" x="838" y="877" width="305" height="397" frameX="-293" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi left0002" x="0" y="1706" width="307" height="384" frameX="-291" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi left0003" x="1018" y="1300" width="461" height="395" frameX="-202" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi right0000" x="1839" y="390" width="293" height="378" frameX="-337" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi right0001" x="1839" y="0" width="295" height="390" frameX="-337" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi right0002" x="685" y="446" width="296" height="400" frameX="-337" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi right0003" x="1479" y="1300" width="300" height="392" frameX="-337" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi up0000" x="670" y="0" width="322" height="434" frameX="-345" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi up0001" x="338" y="0" width="332" height="437" frameX="-345" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi up0002" x="508" y="877" width="330" height="418" frameX="-345" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi up0003" x="1332" y="821" width="325" height="406" frameX="-345" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi idle0003" x="0" y="446" width="343" height="431" frameX="-290" frameY="-85" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Corrupted Bambi idle0004" x="343" y="446" width="342" height="430" frameX="-291" frameY="-85" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
